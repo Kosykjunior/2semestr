@@ -1,0 +1,9 @@
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\SortDrawTools\bin\Debug\SortDrawTools.dll
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\SortDrawTools\bin\Debug\SortDrawTools.pdb
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\SortDrawTools\bin\Debug\SortTools.dll
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\SortDrawTools\bin\Debug\SortTools.pdb
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\SortDrawTools\obj\Debug\SortDrawTools.csprojAssemblyReference.cache
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\SortDrawTools\obj\Debug\SortDrawTools.csproj.CoreCompileInputs.cache
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\SortDrawTools\obj\Debug\SortDrawTools.csproj.CopyComplete
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\SortDrawTools\obj\Debug\SortDrawTools.dll
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\SortDrawTools\obj\Debug\SortDrawTools.pdb

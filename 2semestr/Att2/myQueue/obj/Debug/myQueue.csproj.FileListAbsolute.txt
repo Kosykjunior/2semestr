@@ -1,0 +1,6 @@
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\myQueue\bin\Debug\myQueue.dll
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\myQueue\bin\Debug\myQueue.pdb
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\myQueue\obj\Debug\myQueue.csprojAssemblyReference.cache
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\myQueue\obj\Debug\myQueue.csproj.CoreCompileInputs.cache
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\myQueue\obj\Debug\myQueue.dll
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\myQueue\obj\Debug\myQueue.pdb

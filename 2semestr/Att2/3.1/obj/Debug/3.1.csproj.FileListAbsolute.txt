@@ -1,0 +1,13 @@
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\3.1\bin\Debug\3.1.exe.config
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\3.1\bin\Debug\3.1.exe
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\3.1\bin\Debug\3.1.pdb
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\3.1\bin\Debug\myQueue.dll
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\3.1\bin\Debug\myQueue.pdb
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\3.1\obj\Debug\3.1.csprojAssemblyReference.cache
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\3.1\obj\Debug\_3._1.Properties.Resources.resources
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\3.1\obj\Debug\_3._1.QueueForm.resources
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\3.1\obj\Debug\3.1.csproj.GenerateResource.cache
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\3.1\obj\Debug\3.1.csproj.CoreCompileInputs.cache
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\3.1\obj\Debug\3.1.csproj.CopyComplete
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\3.1\obj\Debug\3.1.exe
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\3.1\obj\Debug\3.1.pdb

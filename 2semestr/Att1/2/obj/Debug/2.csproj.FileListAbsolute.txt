@@ -1,0 +1,13 @@
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att1\2\bin\Debug\2.exe.config
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att1\2\bin\Debug\2.exe
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att1\2\bin\Debug\2.pdb
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att1\2\bin\Debug\Tools.dll
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att1\2\bin\Debug\Tools.pdb
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att1\2\obj\Debug\2.csprojAssemblyReference.cache
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att1\2\obj\Debug\_2.RecursionForm.resources
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att1\2\obj\Debug\_2.Properties.Resources.resources
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att1\2\obj\Debug\2.csproj.GenerateResource.cache
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att1\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att1\2\obj\Debug\2.csproj.CopyComplete
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att1\2\obj\Debug\2.exe
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att1\2\obj\Debug\2.pdb

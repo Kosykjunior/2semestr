@@ -1,0 +1,6 @@
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\myTree\bin\Debug\myTree.dll
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\myTree\bin\Debug\myTree.pdb
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\myTree\obj\Debug\myTree.csprojAssemblyReference.cache
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\myTree\obj\Debug\myTree.csproj.CoreCompileInputs.cache
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\myTree\obj\Debug\myTree.dll
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\myTree\obj\Debug\myTree.pdb

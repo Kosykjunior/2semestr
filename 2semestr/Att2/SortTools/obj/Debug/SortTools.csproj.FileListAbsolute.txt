@@ -1,0 +1,6 @@
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\SortTools\bin\Debug\SortTools.dll
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\SortTools\bin\Debug\SortTools.pdb
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\SortTools\obj\Debug\SortTools.csproj.CoreCompileInputs.cache
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\SortTools\obj\Debug\SortTools.dll
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\SortTools\obj\Debug\SortTools.pdb
+C:\Users\sidad\Desktop\people\people\KosarevskiT\Att2\SortTools\obj\Debug\SortTools.csprojAssemblyReference.cache
